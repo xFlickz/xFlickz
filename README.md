@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I LOVE ANIME
 -->
 ### 🤗I dunno how to create a bot 🤖
+### 🎃Can someone teach me.....
+
